@@ -50,11 +50,11 @@ $$
 MTBF=\frac{1}{f_{clk} * f_{data} * x}
 $$
 
-![image-20200807112118594](..\pics\CDC总结.assets\image-20200807112118594.png)
+![image-20200807112118594](../pics/CDC总结.assets/image-20200807112118594.png)
 
 随着同步时钟频率和数据变化频率的提升，MTBF的值越小，电路出现亚稳态的概率就越高。
 
-![image-20200807112220676](..\pics\CDC总结.assets\image-20200807112220676.png)
+![image-20200807112220676](../pics/CDC总结.assets/image-20200807112220676.png)
 
 ### 数据保持（快时钟域到慢时钟域）
 
@@ -174,7 +174,7 @@ $$
 
 握手协议
 
-![image-20200807002920397](../pics/CDC总结.assets/image-20200807002920397.png)
+![image-20200807002920397](..\pics\CDC总结.assets\image-20200807002920397.png)
 
 ![image-20200807103947798](..\pics\CDC总结.assets\image-20200807103947798.png)
 
